@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A couple of XSL scripts that can be used for transforming SFX's 
 Google Scholar output into a KBART file.  
 
@@ -29,3 +30,9 @@ Scholar export.
 
 
 
+=======
+SFXtoKBART
+==========
+
+Transforms SFX's Google Scholar Output into KBART format for loading into a knowledgebase such as OCLC's WMS.
+>>>>>>> aae9cef93e7ae932d9b4dfc2fae17bc3ddee9c5b
